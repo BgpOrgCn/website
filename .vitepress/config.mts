@@ -21,9 +21,9 @@ export default defineConfig({
       {
         text: '𝒇𝒘𝒏𝒆𝒕-Tools',
         items: [
-          { text: 'Looking Glass', link: 'https://lg.fw.ac.cn/' },
-          { text: 'RPKI (收录CN86 ROAS)', link: 'https://rpki0.fw.ac.cn/rpki.json' },
-          { text: 'IP、ASN范围', link: 'https://fw.ac.cn/ip-ranges' }
+          { text: '🔍 Looking Glass', link: 'https://lg.fw.ac.cn/' },
+          { text: 'RPKI（含CN86 ROAs）', link: 'https://rpki0.fw.ac.cn/rpki.json' },
+          { text: 'IP & ASN范围', link: 'https://fw.ac.cn/ip-ranges' }
         ]
       },
       {
