@@ -15,7 +15,7 @@ hero:
       text: 关于我们
       link: /api-examples
   image:
-    src: /AI-logo.png
+    src: /AI-logo.webp
     width: 300
     hight: 300
     alt: VitePress
