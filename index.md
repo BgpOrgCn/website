@@ -15,7 +15,7 @@ hero:
       text: 关于我们
       link: /api-examples
   image:
-    src: /asstes/AI-logo.png
+    src: /AI-logo.png
     width: 300
     hight: 300
     alt: VitePress

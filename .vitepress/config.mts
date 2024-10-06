@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "BGP-ORG",
   description: "A website for BGP Player",
-    head: [
+  head: [
       ['link',{rel: 'icon', href: '/favicon.ico'}]
     ],
   themeConfig: {
