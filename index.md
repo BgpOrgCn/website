@@ -4,6 +4,7 @@ layout: home
 
 hero:
   name: "BGP-ORG"
+  home-hero-info: true
   text: "A Website for BGP Player"
   tagline: 一个 BGP Player 的网站
   actions:
